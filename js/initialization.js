@@ -582,7 +582,7 @@ function createAdminAccount() {
             userType: 1
         })
         accounts.push({
-            fullname: "Trần Nhật Sinh",
+            fullname: "Trịnh Sơn Hoàng",
             phone: "0123456789",
             password: "123456",
             address: '',
